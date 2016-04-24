@@ -1,11 +1,9 @@
-l#special{
-	width: 100px;
-	height: 20px;
-	background-color: gray;
-}
-#test{
-
+.mysmallbutton{
+	font-size:0.7em;
 }
 .button{
-	
+        width: 100px;
+	height: auto;
+	background-color: gray;
+	padding: 0 1em;
 }
